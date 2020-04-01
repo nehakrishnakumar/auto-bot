@@ -1,0 +1,23 @@
+{
+  "name": "ban-me-bot",
+  "version": "1.0.0",
+  "description": "Bot that suggests similar words to \"ban me\" when invoked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehakrishnakumar/ban-me-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "ban"
+  ],
+  "author": "Neha Krishnakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehakrishnakumar/ban-me-bot/issues"
+  },
+  "homepage": "https://github.com/nehakrishnakumar/ban-me-bot#readme"
+}
