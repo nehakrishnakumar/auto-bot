@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nehakrishnakumar/ban-me-bot/issues"
   },
-  "homepage": "https://github.com/nehakrishnakumar/ban-me-bot#readme"
+  "homepage": "https://github.com/nehakrishnakumar/ban-me-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
 }
