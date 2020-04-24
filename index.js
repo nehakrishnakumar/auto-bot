@@ -20,6 +20,9 @@ bot.on('message', msg=>{
 		case 'Hi':
 			msg.reply ("Hi there. I'm still being developed so talk to me later!");
 			break;
+		case 'banme':
+			msg.reply("Did you mean wrpwerwpet");  //temporary
+			break;
 		/*default:
 			msg.reply("Hi! I don't know what you're saying. Reply with ?Heyyo or ?Hi if you want a greeting!");
 			break;
