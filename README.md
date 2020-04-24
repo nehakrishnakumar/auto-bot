@@ -1,2 +1,2 @@
-# ban-me-bot
-This is a bot that "bans" a Discord user. When you say "ban me" to the bot, it'll respond with two words that sound similar, such as "banh mi" or something along those lines. It is totally created for fun and not to be taken seriously, and is a dive for me into dictionaries, mapping, and similar techniques. 
+# auto-bot
+Coming off of the previous idea of the ban-me-bot that I was attempting to work with before, this is a bot that gives completely ridiculous autocomplete suggestions to the words or phrases that you give to the bot. My goal is to work with this bot and to work with autocomplete without the need of another API (besides the Discord API). I really want to be able to understand how it would work, and maybe I could use this as a template for other people when they're making autocomplete-related bots themselves? The quarantine has given me so much time to learn new things.
